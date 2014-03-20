@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1392920781 source:/home/vasya/projekts/acos/copy/main.c
+	<stdio.h>
+	<stdlib.h>
+
